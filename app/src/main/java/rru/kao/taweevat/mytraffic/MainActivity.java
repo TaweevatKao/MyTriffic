@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         //Bind Widget
         bindWidget();
 
-        //Buttin Controller
+        //Button Controller
         ButtonsController();
 
         //ListView Controller
